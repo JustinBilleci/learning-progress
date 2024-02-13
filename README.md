@@ -9,3 +9,7 @@ First Log: I am starting this repository pretty late as I have been in the proce
 *February 12th, 2024*
 
 Second Log: I forgot to log yesterday, but today is more of what I started yesterday. Learning to reformat arrays into more concise code on my "simple-role-playing-game". 
+
+*February 13th, 2024* 
+
+Third Log: today is more arrays and functions and how to make them clearer and more concise. The goal is to have my "simple-role-playing-game" completed by the end of the week, but we'll see how that goes. 
