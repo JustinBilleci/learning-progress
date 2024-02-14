@@ -13,3 +13,7 @@ Second Log: I forgot to log yesterday, but today is more of what I started yeste
 *February 13th, 2024* 
 
 Third Log: today is more arrays and functions and how to make them clearer and more concise. The goal is to have my "simple-role-playing-game" completed by the end of the week, but we'll see how that goes. 
+
+*February 14th, 2024* 
+
+Fourth Log: I feel much more confident with arrays, buttons, and functions overall. By the end of the week I'll br adding my updated code for the "simple-role-playing-game". I have high hopes for this year. 
