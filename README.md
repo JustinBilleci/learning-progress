@@ -22,3 +22,8 @@ Fourth Log: I feel much more confident with arrays, buttons, and functions overa
 *February 15th, 2024*
 
 Fifth Log: I am now not going to have the "simple-role-playing-game" repository updated by the end of the week as I have recently found a new Javascript course that I believe will benefit me more. I am still going to finish the game, but at a later date TBD. I am incredibly excited for this new course and can't wait to come right back to the one I'm already on afterwards. WE GOT THIS!
+
+
+*February 16th, 2024*
+
+Sixth Log: The new Javascript course is going well and I'm learning very valuable things from someone already establihed in this field. Hoping to learn more soon but unsure since I'll be camping this weekend. Wish me luck! 
