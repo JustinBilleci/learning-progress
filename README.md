@@ -27,3 +27,8 @@ Fifth Log: I am now not going to have the "simple-role-playing-game" repository 
 *February 16th, 2024*
 
 Sixth Log: The new Javascript course is going well and I'm learning very valuable things from someone already establihed in this field. Hoping to learn more soon but unsure since I'll be camping this weekend. Wish me luck! 
+
+
+*February 19th, 2024*
+
+Seventh Log: The new Javascript course is almost completed and I have found a lot of useful information from it. Took two days off to go and hang out with family. 
