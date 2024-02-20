@@ -32,3 +32,8 @@ Sixth Log: The new Javascript course is going well and I'm learning very valuabl
 *February 19th, 2024*
 
 Seventh Log: The new Javascript course is almost completed and I have found a lot of useful information from it. Took two days off to go and hang out with family. 
+
+
+*February 20th, 2024*
+
+Eighth Log: The new Javascript course helped a ton and I feel much more confifent moving forward. I am in the process of moving this week and won't have much time to code but I'll try my best to make do. 
