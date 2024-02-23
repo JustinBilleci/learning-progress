@@ -42,3 +42,8 @@ Eighth Log: The new Javascript course helped a ton and I feel much more confifen
 +February 22nd, 2024*
 
 Ninth Log: I haven't been able to code much recently as I have been in the process of moving, I hope to do a lot more next week. Just thought I'd update this a little for transparency.
+
+
++February 23Rd, 2024*
+
+Tenth Log: Another log for transparency, I'm unable to code again today but I am looking forward to a new REACT course I found. I'm excited to continue the process and get back on the horse once I'm done moving. 
