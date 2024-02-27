@@ -44,7 +44,7 @@ Eighth Log: The new Javascript course helped a ton and I feel much more confifen
 Ninth Log: I haven't been able to code much recently as I have been in the process of moving, I hope to do a lot more next week. Just thought I'd update this a little for transparency.
 
 
-*February 23Rd, 2024*
+*February 23rd, 2024*
 
 Tenth Log: Another log for transparency, I'm unable to code again today but I am looking forward to a new REACT course I found. I'm excited to continue the process and get back on the horse once I'm done moving. 
 
@@ -52,3 +52,8 @@ Tenth Log: Another log for transparency, I'm unable to code again today but I am
 *February 26th, 2024*
 
 Eleventh Log: Finally moved in and will be back to coding tomorrow after I get the rest of my things. I can't wait do the REACT course, my goal is to be employed as a Software Engineer within 6 months. 
+
+
+*February 27th, 2024*
+
+Twelfth Log: Initialized some code and created the repository for the JS intro course. not much but another busy day, glad I could do some more. :)
