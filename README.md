@@ -57,3 +57,8 @@ Eleventh Log: Finally moved in and will be back to coding tomorrow after I get t
 *February 27th, 2024*
 
 Twelfth Log: Initialized some code and created the repository for the JS intro course. not much but another busy day, glad I could do some more. :)
+
+
+*February 28th, 2024*
+
+Thirteenth Log: Updated some code in my "portfolio" repository, I have high high hopes for my coding future as well as high hopes for my future job search. If you're reading this I hope you have a great day! 
