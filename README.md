@@ -62,3 +62,8 @@ Twelfth Log: Initialized some code and created the repository for the JS intro c
 *February 28th, 2024*
 
 Thirteenth Log: Updated some code in my "portfolio" repository, I have high high hopes for my coding future as well as high hopes for my future job search. If you're reading this I hope you have a great day! 
+
+
+*March 6th, 2024* 
+
+Fourtheenth Log: Took a break from logging as I have been more focused on directly coding and deploying real projects. Today I took the day off as I am not at home, this is also my first log in March. I plan on starting a course on REACT soon, after the course is finished I'll finish the developement process and deploy my new gym app "Never Quit". Excited for the upcoming future. 
