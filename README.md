@@ -67,3 +67,8 @@ Thirteenth Log: Updated some code in my "portfolio" repository, I have high high
 *March 6th, 2024* 
 
 Fourtheenth Log: Took a break from logging as I have been more focused on directly coding and deploying real projects. Today I took the day off as I am not at home, this is also my first log in March. I plan on starting a course on REACT soon, after the course is finished I'll finish the developement process and deploy my new gym app "Never Quit". Excited for the upcoming future. 
+
+
+*March 7th, 2024*
+
+Fifteenth Log: Made some small updates on my repository for the JS tutorial. No big changes today as I am still not at home but will be tomorrow. Have a good one :)
