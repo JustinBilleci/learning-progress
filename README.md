@@ -72,3 +72,8 @@ Fourtheenth Log: Took a break from logging as I have been more focused on direct
 *March 7th, 2024*
 
 Fifteenth Log: Made some small updates on my repository for the JS tutorial. No big changes today as I am still not at home but will be tomorrow. Have a good one :)
+
+
+*March 11th, 2024*
+
+Sixteenth Log: Excited to start the REACT course later today, that repository will be up later today as well. I am suuuuuuper excited to get the ball rolling on that and I have all week to code so I'm hoping to have a NEXT.JS course completed by the end of the week as well. If you're reading this have a great day/night! 
