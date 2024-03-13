@@ -78,3 +78,7 @@ Fifteenth Log: Made some small updates on my repository for the JS tutorial. No 
 
 Sixteenth Log: Excited to start the REACT course later today, that repository will be up later today as well. I am suuuuuuper excited to get the ball rolling on that and I have all week to code so I'm hoping to have a NEXT.JS course completed by the end of the week as well. UPDATE: Didn't create the REACT repo yet, that will be tomorrow. Finished JS course. If you're reading this have a great day/night! 
 
+
+*March 13th, 2024*
+
+Seventeenth Log: Created the REACT to-do list repo yesterday and should be able to finishit by the end of the day today and then on to the NEXT.JS project. I'm on track to have these finished by the end of the week still. Happy coding!
