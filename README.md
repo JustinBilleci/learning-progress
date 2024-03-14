@@ -82,3 +82,8 @@ Sixteenth Log: Excited to start the REACT course later today, that repository wi
 *March 13th, 2024*
 
 Seventeenth Log: Created the REACT to-do list repo yesterday and should be able to finishit by the end of the day today and then on to the NEXT.JS project. I'm on track to have these finished by the end of the week still. Happy coding!
+
+
+*March 14th, 2024*
+
+Eighteenth Log: Finished the REACT to-do list! Instead of making the NEXT.JS project next, I'm going to focus on another REACT project I have already started to get a better grasp on it as I still have so much to learn. That should hopefully be finished by the end of the weekend. Have a good one! 
