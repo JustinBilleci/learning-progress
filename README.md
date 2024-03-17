@@ -92,3 +92,8 @@ Eighteenth Log: Finished the REACT to-do list! Instead of making the NEXT.JS pro
 *March 15th, 2024*
 
 Nineteenth Log: Started back up on my REACT/Tailwind CSS gym app, I feel like I am grasping the concepts of Tailwind CSS and REACT a lot more and I have high hopes for the future! Short log today but nothing really crazy happened just hard work, Much Love <3
+
+
+*March 16th, 2024*
+
+Twentieth Log: Not much coding done today, just a rest day for laundry and cleaning. back on the grind tomorrow. :)
