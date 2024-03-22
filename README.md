@@ -97,3 +97,8 @@ Nineteenth Log: Started back up on my REACT/Tailwind CSS gym app, I feel like I 
 *March 16th, 2024*
 
 Twentieth Log: Not much coding done today, just a rest day for laundry and cleaning. back on the grind tomorrow. :)
+
+
+*March 21st, 2024*
+
+Twenty-first Log: Haven't done much in terms of coding this week, created four new buttons in the REACT gym app. Placed them and styled them accordingly. Thanks for reading!
