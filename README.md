@@ -102,3 +102,9 @@ Twentieth Log: Not much coding done today, just a rest day for laundry and clean
 *March 21st, 2024*
 
 Twenty-first Log: Haven't done much in terms of coding this week, created four new buttons in the REACT gym app. Placed them and styled them accordingly. Thanks for reading!
+
+
+*March 26th, 2024*
+
+Twenty-second Log: REACT gym app is taking me longer than expected, still working hard and making a lot of progress. updated some code for the gym app today. Have a good one! 
+
