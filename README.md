@@ -112,3 +112,8 @@ Twenty-second Log: REACT gym app is taking me longer than expected, still workin
 *March 27th, 2024*
 
 Twenty-third Log: Added the third section to the front page of the gym app. Definitely going to work on a smaller project to start off learning NEXT.js. I found that these bigger projects often have equal levels of stress and learning, whereas the smaller projects have a lot more learning that gives you a better understanding of the basics with much less stress giving you the ability to move on to bigger projects and deal with them better.  
+
+
+*March 28th, 2024*
+
+Twenty-fourth Log: Updated the functionality and responsiveness of all buttons in the three main components. Looking forward to finally completing this tomorrow, Thanks for checking in! 
