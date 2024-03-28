@@ -108,3 +108,7 @@ Twenty-first Log: Haven't done much in terms of coding this week, created four n
 
 Twenty-second Log: REACT gym app is taking me longer than expected, still working hard and making a lot of progress. updated some code for the gym app today. Have a good one! 
 
+
+*March 27th, 2024*
+
+Twenty-third Log: Added the third section to the front page of the gym app. Definitely going to work on a smaller project to start off learning NEXT.js. I found that these bigger projects often have equal levels of stress and learning, whereas the smaller projects have a lot more learning that gives you a better understanding of the basics with much less stress giving you the ability to move on to bigger projects and deal with them better.  
