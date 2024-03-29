@@ -117,3 +117,9 @@ Twenty-third Log: Added the third section to the front page of the gym app. Defi
 *March 28th, 2024*
 
 Twenty-fourth Log: Updated the functionality and responsiveness of all buttons in the three main components. Looking forward to finally completing this tomorrow, Thanks for checking in! 
+
+
+*March 29th, 2024*
+
+Twenty-fifth Log: Finally finished the gym app and I'm super proud. I'll leave the link here in case anyone reading would like to check it out. Have a wonderful day! 
+https://neverquit.netlify.app/ 
