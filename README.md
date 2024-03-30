@@ -123,3 +123,8 @@ Twenty-fourth Log: Updated the functionality and responsiveness of all buttons i
 
 Twenty-fifth Log: Finally finished the gym app and I'm super proud. I'll leave the link here in case anyone reading would like to check it out. Have a wonderful day! 
 https://neverquit.netlify.app/ 
+
+
+*March 30th, 2024*
+
+Twenty-sixth Log: I plan on starting the Harvard CS50 course either tonight or tomorrow, after completing a project I think it's a good idea to refresh the basics while you're still learning so that's what I plan to do. I plan on entering the job field in 4 months so I would like to use this remaining time wisely to grow and have a wide array of skills useful to potential employers, and if you're a potential employer reading this then *reach out to me*... please. I hope you have a magnificent day :)
