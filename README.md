@@ -128,3 +128,8 @@ https://neverquit.netlify.app/
 *March 30th, 2024*
 
 Twenty-sixth Log: I plan on starting the Harvard CS50 course either tonight or tomorrow, after completing a project I think it's a good idea to refresh the basics while you're still learning so that's what I plan to do. I plan on entering the job field in 4 months so I would like to use this remaining time wisely to grow and have a wide array of skills useful to potential employers, and if you're a potential employer reading this then *reach out to me*... please. I hope you have a magnificent day :)
+
+
+*April 6th, 2024*
+
+Twenty-seventh Log: A couple days into the cs50 course and I'm really enjoying it. I'm learning a lot and I find it very interactive. just a small update, back to it! 
