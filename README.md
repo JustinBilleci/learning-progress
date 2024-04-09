@@ -133,3 +133,8 @@ Twenty-sixth Log: I plan on starting the Harvard CS50 course either tonight or t
 *April 6th, 2024*
 
 Twenty-seventh Log: A couple days into the cs50 course and I'm really enjoying it. I'm learning a lot and I find it very interactive. just a small update, back to it! 
+
+
+*April 8th, 2024*
+
+Twenty-Eighth Log: Updated my portfolio today and started my job search, I still have much to learn and have no problem if it doesn't go well at first as I understand thats just how it goes. Either way I'm going to continue to pursue this career and make it a reality. Have a wonderful day!
