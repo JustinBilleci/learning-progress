@@ -138,3 +138,8 @@ Twenty-seventh Log: A couple days into the cs50 course and I'm really enjoying i
 *April 8th, 2024*
 
 Twenty-Eighth Log: Updated my portfolio today and started my job search, I still have much to learn and have no problem if it doesn't go well at first as I understand thats just how it goes. Either way I'm going to continue to pursue this career and make it a reality. Have a wonderful day!
+
+
+*April 9th, 2024*
+
+Twenty-Ninth Log: Still applying for some jobs and having a small amount of success which is more than I expected. Still continuing to learn and grow more as always. I'm excited to see where my job search leads me! 
