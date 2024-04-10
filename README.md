@@ -143,3 +143,8 @@ Twenty-Eighth Log: Updated my portfolio today and started my job search, I still
 *April 9th, 2024*
 
 Twenty-Ninth Log: Still applying for some jobs and having a small amount of success which is more than I expected. Still continuing to learn and grow more as always. I'm excited to see where my job search leads me! 
+
+
+*April 10th, 2024*
+
+Thirtieth Log: Job search is still going strong and I'm still focused on mastering programming, the end goal is to become an expert. I'm confident in my abilities and they will only grow further. 
