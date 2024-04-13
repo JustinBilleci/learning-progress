@@ -148,3 +148,8 @@ Twenty-Ninth Log: Still applying for some jobs and having a small amount of succ
 *April 10th, 2024*
 
 Thirtieth Log: Job search is still going strong and I'm still focused on mastering programming, the end goal is to become an expert. I'm confident in my abilities and they will only grow further. 
+
+
+*April 13th, 2024*
+
+Thirty-first Log: Doing more and more of the cs50 course, I'm proud of my work and my work ethic and how far I've come with my programming ability. I'm excited to get my first job in the industry, hopefully sooner rather than later. 
