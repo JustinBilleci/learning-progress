@@ -158,3 +158,7 @@ Thirty-first Log: Doing more and more of the cs50 course, I'm proud of my work a
 *May 26th, 2024*
 
 Thirty-second Log: Long time since I last updated, currently preparing for an interview at a company I'm very hopeful about. Will check back in to update on how that goes. I am really proud of how much I have learned and of how much I am growing as a Web Developer. Have a great day!
+
+*June 6th, 2024*
+
+Thirty-third Log: I have officially been offered a position at an awesome company and will sign my contract as soon as I receive it. Just wanted to update, have a great day!
