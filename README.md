@@ -162,3 +162,7 @@ Thirty-second Log: Long time since I last updated, currently preparing for an in
 *June 6th, 2024*
 
 Thirty-third Log: I have officially been offered a position at an awesome company and will sign my contract as soon as I receive it. Just wanted to update, have a great day!
+
+*June 8th, 2024*
+
+Thirty-fourth Log: Contract signed and starting on Monday the 24th of June. I am extremely excited to begin this stage in my career and have nothing but high hopes for the future. Thank you for reading!
