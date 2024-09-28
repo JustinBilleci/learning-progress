@@ -173,3 +173,8 @@ Thirty-fourth Log: Contract signed and starting on Monday the 24th of June. I am
 *July 9th, 2024*
 
 Thirty-fifth Log: It's been a little over a month since last update. I am more than thrilled with the job and I have fun everday while learning new things, everybody here is wonderful and I'm happy to be a part of this awesome team.
+
+
+*September 28th, 2024*
+
+Thirty-sixth Log: In two days it will be exactly one year on Github for me, starting off knowing little I now have 30 repositories of my own and I help with multiple repositories at work leading to me having 550 commits in my first year. I received my M1 MacBook Pro 14in yesterday and I'm in high spirits as I can now work on the go and travel more frequently. If anyone is reading this I hope you have a great day.  
